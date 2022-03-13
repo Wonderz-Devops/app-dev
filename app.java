@@ -3,4 +3,5 @@
        echo "Please enter your password"
        read -s password  
        echo "Welcome to the zelle application"
+echo "Thank you"
 
